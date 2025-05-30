@@ -1,5 +1,5 @@
-# 💫 About Me:
-Absolute learner 
+Absolute learner
+
 
 
 # 💻 Tech Stack:
